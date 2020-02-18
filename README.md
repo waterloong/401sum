@@ -1,2 +1,2 @@
 # 401sum
-to calculate total spending on 401 order history page
+to calculate total spending on board game store 401 order history page
